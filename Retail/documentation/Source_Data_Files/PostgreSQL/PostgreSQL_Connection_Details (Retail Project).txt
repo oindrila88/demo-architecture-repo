@@ -1,0 +1,10 @@
+Neon PostgreSQL Connection Details (oindrila_retail_project)
+
+Connection String - postgresql://neondb_owner:npg_fRvJA4oV1tmF@ep-misty-silence-aos56jq3.c-2.ap-southeast-1.aws.neon.tech/neondb?sslmode=require
+
+Connection Parameters :
+Host : ep-misty-silence-aos56jq3.c-2.ap-southeast-1.aws.neon.tech
+Database : neondb
+Role : neondb_owner
+Password : ************
+Pooler host : ep-misty-silence-aos56jq3-pooler.c-2.ap-southeast-1.aws.neon.tech
